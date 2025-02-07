@@ -1,0 +1,21 @@
+{
+    "SharkPool": ["QR-Codes.js", "Animations.js", "Tune-Shark-V3.js", "Sharktilities.js", "YouTube-Operations.js", "Time-Calculation.js", "Scratch-Utilities.js", "Seeds.js", "Tune-Shark.js", "TuneShark-min.js", "Sound-Waves.js", "Geometry-Dash-API.js", "Hyper-Sense.js", "Better-Input.js", "Camera-Sensing-Plus.js", "CameraSensingPlus-min.js", "Particle-Engine.js", "Particle-Tools.js", "Image-Effects.js", "Image-Editor.js", "ImageEffects-min.js", "ImageEditor-min.js", "Recording.js", "Newgrounds-Audio.js", "Lazy-Collisions.js", "Sty-Lists.js", "Tile-Grids.js", "Pause-Utilities.js", "Text-to-Speech.js", "Messages-Plus.js", "Advanced-Messages.js", "Fetch-Progress.js", "Geolocation.js", "SoundCloud-API.js", "Google-Spreadsheets.js", "Money-Utilities.js", "Display-Text.js", "Color-Master.js", "Runtime-Events.js", "Speech-Bubbles.js", "Script-Control.js", "Layer-Control.js", "Renderer-Control.js", "Perlin-Noise.js", "Extra-Controls.js", "More-Operators.js", "MoreOperators-min.js", "Captchas.js", "Better-Comments.js", "DOM-Selector.js", "SVG-Spritesheets.js", "Community-Spotlight.js", "GIF-Manager.js", "JSON-Array.js", "Turbo-Skins.js"],
+    "LittleBlueGamer": ["Pixel-Utilities.js"],
+    "SharkPool_Martinelplayz_and_0znzw": ["Files-Expanded.js", "FilesExpanded-min.js"],
+    "SharkPool_and_DogeIsCut": ["Variables-Expanded.js"],
+    "DNin01_and_Meehdrescher": ["Gamepad-Expanded.js"],
+    "ION_and_0znzw": ["Since-2000.js"],
+    "SharkPool_and_0znzw": ["Font-Manager.js"],
+    "SharkPool_CST_and_0znzw": ["My-Blocks-Plus.js", "Dropdown-Maker.js"],
+    "MikeDev101": ["cloudlink.js", "Cloudlink Ω.js", "Cloudlink-min.js", "Cloudlink4_Improved.js", "Cloudlink4_No_logs.js"],
+    "ObviousAlexC": ["penplus.js", "3D Math.js"],
+    "pooiod7": ["box2d.js"],
+    "MubiLop": ["PenguinAI.js", "penguinhook.js"],
+    "MrRedstonia": ["counter++.js"],
+    "Embin": ["embinutils.js"],
+    "Mistium" : ["Github.js", "Virtual File System.js"],
+    "Furina" : ["furina_storage_extension.js"],
+    "Softed" : ["gamejolt.js", "itchio.js"],
+    "TheShovel" : ["clouddata-ping.js"],
+    "andysus64" : ["4ndyEncryption.js", "4ndyFilters.js", "4ndyMathComparisons.js", "4ndyMathUtilities.js", "4ndyNormalSussyStuff.js", "4ndyT3xtManagement.js", "4ndyTimeNdateUtilities.js", "4ndyWeather.js", "4ndypages.js"]
+}
